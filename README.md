@@ -4,7 +4,7 @@
 Software Engineer | Electrical and Information Engineering Undergraduate @ UOR 
 </h3>
 
-Eager, determined and highly motivated individual, enthusiastic about taking on challenges and problem-solving
+<p align='center'>Eager, determined and highly motivated individual, enthusiastic about taking on challenges and problem-solving</p>
 
 * 🌍  I'm from Kaluthara, Sri Lanka
 * 🖥️  See my portfolio at [MyPortfolio](http://supun-ganegoda.github.io/my-portfolio-site/?fbclid=IwAR3PkcbJPULQnI66NdVesbhGHNdOk2SKW8fl1_3tL7nq8l6UUcKNse4nGeQ)
