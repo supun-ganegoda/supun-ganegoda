@@ -6,7 +6,7 @@ Software Engineer | Electrical and Information Engineering Undergraduate @ UOR
 
 Eager, determined and highly motivated individual, enthusiastic about taking on challenges and problem-solving
 
-* 🌍  I'm based in Kaluthara, Sri Lanka
+* 🌍  I'm from Kaluthara, Sri Lanka
 * 🖥️  See my portfolio at [MyPortfolio](http://supun-ganegoda.github.io/my-portfolio-site/?fbclid=IwAR3PkcbJPULQnI66NdVesbhGHNdOk2SKW8fl1_3tL7nq8l6UUcKNse4nGeQ)
 * ✉️  You can contact me at [supunsudeepa@gmail.com](mailto:supunsudeepa@gmail.com)
 * 🚀  I'm currently working on [Syntax Genie (PVT) LTD](http://www.syntaxgenie.com)
