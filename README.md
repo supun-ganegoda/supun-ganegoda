@@ -1,7 +1,7 @@
 <h1 align='center'>Hi <img src='https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif' />I'm Supun Ganegoda
 </h1>
 <h3 align='center'>
-Software Engineer | Electrical and Information Engineering Undergraduate @ UOR 
+Software Engineer - DevSecOps | BSc Eng (Hons) Electrical and Information Engineering, 1st Class Honours 
 </h3>
 
 <p align='center'>Eager, determined and highly motivated individual, enthusiastic about taking on challenges and problem-solving</p>
@@ -9,7 +9,7 @@ Software Engineer | Electrical and Information Engineering Undergraduate @ UOR
 * 🌍  I'm from Kaluthara, Sri Lanka
 * 🖥️  See my portfolio at [MyPortfolio](http://supun-ganegoda.github.io/my-portfolio-site/?fbclid=IwAR3PkcbJPULQnI66NdVesbhGHNdOk2SKW8fl1_3tL7nq8l6UUcKNse4nGeQ)
 * ✉️  You can contact me at [supunsudeepa@gmail.com](mailto:supunsudeepa@gmail.com)
-* 🚀  I'm currently working on [Kingslake Engineering Systems (PVT) LTD](http://www.kingslake.com)
+* 🚀  I'm currently working on [LSEG - London Stock Exchange Group (PVT) LTD](https://www.lseg.com/en/careers/where-we-work/colombo-sri-lanka)
 
 
 
